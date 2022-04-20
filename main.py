@@ -1,7 +1,7 @@
 from pathlib import Path
 
 root_dir = Path('destination')
-# Create files
+# Create files for test
 # for i in range(10, 21):
 #     filename = str(i) + '.csv'
 #     filepath = root_dir / Path(filename)
